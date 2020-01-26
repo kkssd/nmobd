@@ -1,0 +1,2 @@
+# nmobd
+Runshs
